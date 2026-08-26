@@ -1,0 +1,8 @@
+# iOS build artifacts — distribute via GitHub Releases, not git
+*.ipa
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
